@@ -308,30 +308,3 @@ body {margin:1;}
 
 </html>
 
-
-
- <div style="border: 4px solid black; box-sizing: inherit" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Mux8Way16</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/z6TW7MX/CS-160-MUX8-WAY16-HDL.png" height="200" width="200"></a>
-                </div>
-
-                <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Mux16</h3>
-                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/Sdgw9hw/CS-160-MUX16.png" height="200" width="200"></a>
-                </div>
-
-                <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Not16</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/L8KXqk9/CS-160-NOT16-HDL.png" height="200" width="200"></a>
-
-
-
-                <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Or8Way</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/4g79wYW/CS-160-OR8-WAY-HDL.png" height="200" width="200"></a>
-                </div>
-
-                <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Or16</h3>
-                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/d04SPxB/CS-160-OR-16-HDL.png" height="200" width="200"></a>
-                </div>

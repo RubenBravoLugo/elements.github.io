@@ -159,7 +159,7 @@ body {margin:1;}
                 </div>
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">And16</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/BsvzPVp/CS-160-AND-HDL.png" height="200" width="200"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/L6kGdH6/CS-160-DMUX4-WAY-HDL.png" height="200" width="200"></a>
                 </div>
 
                 

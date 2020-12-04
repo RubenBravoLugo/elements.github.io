@@ -101,26 +101,53 @@ body {margin:1;}
 
 <body style="background-color: lightblue;">
 
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#"></a>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {margin:1;}
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 980px;
+}
 
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link"  style="height: 50px;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only" >(current)</span></a>
-                </li>
-                
-                
-            </ul>
+.navbar a {
+  float: left;
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 40px 20px;
+  text-decoration: none;
+  font-size: 25px;
+}
 
-            
-        </div>
-    </nav> <!-- End of NavBar-->
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="https://rubenbravolugo.github.io/"> HOME </a>
+  <a href="#news"> </a>
+  <a href="#contact"> </a>
+</div>
+
+
+
+</body>
+</html>
+
 
     <main role="main">
 

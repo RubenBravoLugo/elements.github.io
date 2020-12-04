@@ -112,7 +112,7 @@ body {margin:1;}
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link"  style="height: 100px;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only" >(current)</span></a>
+                    <a class="nav-link"  style="height: 50px;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only" >(current)</span></a>
                 </li>
                 
                 
@@ -139,7 +139,8 @@ body {margin:1;}
 
                 <div style="border: 4px solid black; box-sizing: inherit" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">And</h3>
-                        <img style="height: 200px; width: 200px;" src="https://ibb.co/vzfwBxF"></a>
+                    <img src="https://ibb.co/vzfwBxF" height="233" width="144"> </a>
+                        <img style="height: 200px; width: 200px;" ahref="https://ibb.co/vzfwBxF"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">

@@ -114,35 +114,7 @@ body {margin:1;}
                 <li class="nav-item active">
                     <a class="nav-link"  style="font-family: 'Times New Roman', Times, serif;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only">(current)</span></a>
                 </li>
-                body {margin:1;}
-
-.navbar {
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 980px;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: blue;
-  text-align: center;
-  padding: 40px 20px;
-  text-decoration: none;
-  font-size: 25px;
-}
-
-.navbar a:hover {
-  background: #ddd;
-  color: black;
-}
-
-.main {
-  padding: 16px;
-  margin-top: 30px;
-  height: 1500px; /* Used in this example to enable scrolling */
+                
                 
             </ul>
 

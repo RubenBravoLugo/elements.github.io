@@ -231,26 +231,26 @@ body {margin:1;}
                
                             <div style="border: 4px solid black; box-sizing: inherit" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Mux8Way16</h3>
-                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/rf9fc6D/CS-160-MDUX-HDL.png" height="200" width="200"></a>
+                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/z6TW7MX/CS-160-MUX8-WAY16-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Mux16</h3>
-                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/L6kGdH6/CS-160-DMUX4-WAY-HDL.png" height="200" width="200"></a>
+                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/Sdgw9hw/CS-160-MUX16.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Not16</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/y6Wvgpm/CS-160-DMUX8-WAY-HDL.png" height="200" width="200"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/L8KXqk9/CS-160-NOT16-HDL.png"" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Or8Way</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/fCgtPRq/CS-160-MUX-HDL.png" height="200" width="200"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/4g79wYW/CS-160-OR8-WAY-HDL.png" height="200" width="200"></a>
                 </div>
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Or16</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/wpS4K9x/CS-160-MUX4-WAY16-HDL.png" height="200" width="200"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/d04SPxB/CS-160-OR-16-HDL.png" height="200" width="200"></a>
 
                 
 

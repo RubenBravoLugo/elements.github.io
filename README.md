@@ -112,7 +112,7 @@ body {margin:1;}
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link"  style="font-family: 'Times New Roman', Times, serif;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only">(current)</span></a>
+                    <a class="nav-link"  style="font-family: 'Times New Roman', Times, serif;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only" style="width: 980px;>(current)</span></a>
                 </li>
                 
                 

@@ -139,7 +139,7 @@ body {margin:1;}
 
                 <div style="border: 4px solid black; box-sizing: inherit" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">And</h3>
-                    <a href="https://imgbb.com/"><img src="https://i.ibb.co/BsvzPVp/CS-160-AND-HDL.png" height="233" width="144"></a>
+                    <a href="https://imgbb.com/"><img src="https://i.ibb.co/BsvzPVp/CS-160-AND-HDL.png" height="200" width="200"></a>
 
                 </div>
 

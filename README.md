@@ -145,21 +145,21 @@ body {margin:1;}
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Or</h3>
-                        <img style="height: 200px; width: 200px;" src="https://ibb.co/W6WVq2p"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/56WKtRx/CS-160-AND16-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Not</h3>
-                        <img style="height: 200px; width: 200px;" src="../images/Not.png"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/BsvzPVp/CS-160-AND-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Xor</h3>
-                        <img style="height: 200px; width: 200px;" src="../images/Xor.png"></a>
+                       <a href="https://imgbb.com/"><img src="https://i.ibb.co/BsvzPVp/CS-160-AND-HDL.png" height="200" width="200"></a>
                 </div>
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">And16</h3>
-                        <img style="height: 200px; width: 200px;" src="../images/And16.png"></a>
+                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/BsvzPVp/CS-160-AND-HDL.png" height="200" width="200"></a>
                 </div>
 
                 

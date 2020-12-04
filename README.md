@@ -125,7 +125,7 @@ body {margin:1;}
     <main role="main">
 
         <!-- Main jumbotron for a primary marketing message or call to action -->
-        <div style="background-color: mistyrose;" class="jumbotron">
+        <div style="background-color: teal;" class="jumbotron">
             <div class="container" style="height: 100px; background-color: aliceblue; border: white solid; border-radius: 30px;">
                 <h1 style="font-family: 'Times New Roman', Times, serif;" class="display-3">Elements Ch.1 (15 circuits)</h1>
             

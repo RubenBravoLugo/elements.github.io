@@ -145,7 +145,7 @@ body {margin:1;}
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Or</h3>
-                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/56WKtRx/CS-160-AND16-HDL.png" height="200" width="200"></a>
+                        <a href="https://ibb.co/W6WVq2p"><img src="https://i.ibb.co/56WKtRx/CS-160-AND16-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">

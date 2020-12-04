@@ -112,7 +112,7 @@ body {margin:1;}
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link"  style="font-family: 'Times New Roman', Times, serif;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only" style="width: 980px;>(current)</span></a>
+                    <a class="nav-link"  style="height: 100px;"  href="https://rubenbravolugo.github.io/">Return Home! <span class="sr-only" >(current)</span></a>
                 </li>
                 
                 
@@ -144,7 +144,7 @@ body {margin:1;}
 
                 <div style="border: 4px solid black;" class="col-md-2">
                     <h3 style="font-family: 'Times New Roman', Times, serif;">Or</h3>
-                        <img style="height: 200px; width: 200px;" src="../images/or.png"></a>
+                        <img style="height: 200px; width: 200px;" src="https://ibb.co/W6WVq2p"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">

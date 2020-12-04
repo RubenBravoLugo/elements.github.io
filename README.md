@@ -1,4 +1,4 @@
-# elements.github.io
+#        elements.github.io
 
 
 <html lang="en">
@@ -230,26 +230,26 @@ body {margin:1;}
 
                
                             <div style="border: 4px solid black; box-sizing: inherit" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">DMux</h3>
+                    <h3 style="font-family: 'Times New Roman', Times, serif;">Mux8Way16</h3>
                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/rf9fc6D/CS-160-MDUX-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">DMux4Way</h3>
+                    <h3 style="font-family: 'Times New Roman', Times, serif;">Mux16</h3>
                        <a href="https://imgbb.com/"><img src="https://i.ibb.co/L6kGdH6/CS-160-DMUX4-WAY-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">DMux8Way</h3>
+                    <h3 style="font-family: 'Times New Roman', Times, serif;">Not16</h3>
                         <a href="https://imgbb.com/"><img src="https://i.ibb.co/y6Wvgpm/CS-160-DMUX8-WAY-HDL.png" height="200" width="200"></a>
                 </div>
 
                 <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Mux</h3>
+                    <h3 style="font-family: 'Times New Roman', Times, serif;">Or8Way</h3>
                         <a href="https://imgbb.com/"><img src="https://i.ibb.co/fCgtPRq/CS-160-MUX-HDL.png" height="200" width="200"></a>
                 </div>
                 <div style="border: 4px solid black;" class="col-md-2">
-                    <h3 style="font-family: 'Times New Roman', Times, serif;">Mux4Way16</h3>
+                    <h3 style="font-family: 'Times New Roman', Times, serif;">Or16</h3>
                         <a href="https://imgbb.com/"><img src="https://i.ibb.co/wpS4K9x/CS-160-MUX4-WAY16-HDL.png" height="200" width="200"></a>
 
                 

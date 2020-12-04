@@ -81,50 +81,6 @@ body {margin:1;}
 
 
 
-<!doctype html>
-<!-- Thank you to Yong Bakos - Oregon State Cascades -->
-
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Lucy</title>
-
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-    <!-- Your custom styles for this template -->
-    <link href="FIXME.css" rel="stylesheet">
-</head>
-
-<body style="background-color: lightblue;">
-
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#"></a>
-
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link"  style="font-family: 'Times New Roman', Times, serif;"  href="../index.html">Return Home! <span class="sr-only">(current)</span></a>
-                </li>
-                
-                
-            </ul>
-
-            
-        </div>
-    </nav> <!-- End of NavBar-->
-
     <main role="main">
 
         <!-- Main jumbotron for a primary marketing message or call to action -->
